@@ -396,6 +396,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "AutoLayoutSample/AutoLayoutSample-Prefix.pch";
 				INFOPLIST_FILE = "AutoLayoutSample/AutoLayoutSample-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -409,6 +410,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "AutoLayoutSample/AutoLayoutSample-Prefix.pch";
 				INFOPLIST_FILE = "AutoLayoutSample/AutoLayoutSample-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -475,6 +477,7 @@
 				F6627E5E1831082C00673854 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F6627E5F1831082C00673854 /* Build configuration list for PBXNativeTarget "AutoLayoutSampleTests" */ = {
 			isa = XCConfigurationList;
@@ -483,6 +486,7 @@
 				F6627E611831082C00673854 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
